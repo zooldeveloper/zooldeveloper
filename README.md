@@ -2,7 +2,7 @@
 ### I'm Mukhtar - aka [Zool Developer](https://www.zooldeveloper.com) 😎
 
 - 👨🏾‍💻 A self-taught JavaScript developer and much more...
-- 🧠 Always looking to cick my skills up & be a better problem solver
+- 🧠 Always looking to kick my skills up & be a better problem solver
 - ✨ Creative in some ways 
 - 🌱 Currently learning TypeScript, Nuxt...
 - 🚀  Available for hire 
