@@ -8,4 +8,3 @@
 - 🚀  Available for hire 
 - 📫 Reach out to me on: 🔗 [LinkedIn](https://linkedin.com/in/mukhtar-sulaiman) 
 - 🎥 Check out my [Youtube Channel](https://www.youtube.com/channel/UCSvuJVJdF3NDsg9CjeM6I-Q)
-- ⚡️ Fun fact: Didn’t speak french 🇫🇷 5 years ago !
