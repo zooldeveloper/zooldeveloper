@@ -18,8 +18,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MukhtarSulaiman&theme=algolia&hide_border=false&include_all_commits=true&card_width=280&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MukhtarSulaiman&theme=algolia&card_width=400&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MukhtarSulaiman&theme=algolia&hide_border=false&include_all_commits=true&card_hieght=400&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MukhtarSulaiman&theme=algolia&card_width=410&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MukhtarSulaiman&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MukhtarSulaiman&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
